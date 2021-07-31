@@ -47,7 +47,7 @@ dependencies {
 //    compile 'com.android.tools.build:gradle:2.3.3' // gradle 3.3 <= {} < gradle-4.10
 //    compile 'com.android.tools.build:gradle:3.3.2' // >= gradle-4.10
 //    compile 'com.android.tools.build:gradle:3.4.1' // >= gradle-5.1.1
-    compile 'com.android.tools.build:gradle:3.5.3' // >= gradle-5.4.1
+//    compile 'com.android.tools.build:gradle:3.5.3' // >= gradle-5.4.1
     compile 'org.json:json:20160212'
     compile 'org.codehaus.groovy:groovy:2.4.7'
     compile 'com.squareup:javapoet:1.5.1'
